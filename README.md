@@ -4,4 +4,4 @@
 - The application of an external force deforms the geometry of the examined structure.
 
 - Used to produce the numerical examples of the article I. Dassios, G. Tzounas, F. Milano, A. Jivkov, "A Discrete Model on Force-Based Elasticity and Plasticity", currently under review
-  at the Journal of Computational and Applied Mathematics, Elsevier.
+  at the Journal of Computational and Applied Mathematics, Elsevier, which studies a mathematical model that simulates the elastic and plastic behaviour of isotropic materials.
